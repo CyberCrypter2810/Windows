@@ -1,0 +1,71 @@
+[System Process]	0	TCP	desktop-js1n7f0.ksd.edu	49980	server-52-84-51-157.sea32.r.cloudfront.net	https	TIME_WAIT	2	77								
+[System Process]	0	TCP	desktop-js1n7f0.ksd.edu	50020	sea15s08-in-f10.1e100.net	https	TIME_WAIT										
+firefox.exe	3400	TCP	DESKTOP-JS1N7F0	49917	localhost	49918	ESTABLISHED			24	24						
+firefox.exe	3400	TCP	DESKTOP-JS1N7F0	49918	localhost	49917	ESTABLISHED	24	24								
+firefox.exe	4508	TCP	DESKTOP-JS1N7F0	49919	localhost	49920	ESTABLISHED										
+firefox.exe	4508	TCP	DESKTOP-JS1N7F0	49920	localhost	49919	ESTABLISHED										
+firefox.exe	3400	TCP	desktop-js1n7f0.ksd.edu	49922	ec2-34-213-248-229.us-west-2.compute.amazonaws.com	https	ESTABLISHED										
+firefox.exe	3872	TCP	DESKTOP-JS1N7F0	49924	localhost	49925	ESTABLISHED										
+firefox.exe	3872	TCP	DESKTOP-JS1N7F0	49925	localhost	49924	ESTABLISHED										
+firefox.exe	3400	TCP	desktop-js1n7f0.ksd.edu	49978	lb-192-30-253-124-iad.github.com	https	ESTABLISHED	1	35	1	31						
+firefox.exe	3496	TCP	DESKTOP-JS1N7F0	49986	localhost	49987	ESTABLISHED										
+firefox.exe	3496	TCP	DESKTOP-JS1N7F0	49987	localhost	49986	ESTABLISHED										
+lsass.exe	632	TCP	DESKTOP-JS1N7F0	49672	DESKTOP-JS1N7F0	0	LISTENING										
+lsass.exe	632	TCPV6	desktop-js1n7f0	49672	desktop-js1n7f0	0	LISTENING										
+SearchUI.exe	4868	TCP	desktop-js1n7f0.ksd.edu	49692	a23-44-161-84.deploy.static.akamaitechnologies.com	https	CLOSE_WAIT										
+SearchUI.exe	4868	TCP	desktop-js1n7f0.ksd.edu	49693	a23-44-161-84.deploy.static.akamaitechnologies.com	https	CLOSE_WAIT										
+SearchUI.exe	4868	TCP	desktop-js1n7f0.ksd.edu	50010	204.79.197.220	https	CLOSE_WAIT										
+SearchUI.exe	4868	TCP	desktop-js1n7f0.ksd.edu	50011	204.79.197.220	https	ESTABLISHED										
+SearchUI.exe	4868	TCP	desktop-js1n7f0.ksd.edu	50012	204.79.197.220	https	CLOSE_WAIT										
+SearchUI.exe	4868	TCP	desktop-js1n7f0.ksd.edu	50013	bingforbusiness.com	https	CLOSE_WAIT										
+services.exe	552	TCP	DESKTOP-JS1N7F0	49669	DESKTOP-JS1N7F0	0	LISTENING										
+services.exe	552	TCPV6	desktop-js1n7f0	49669	desktop-js1n7f0	0	LISTENING										
+spoolsv.exe	2100	TCP	DESKTOP-JS1N7F0	49667	DESKTOP-JS1N7F0	0	LISTENING										
+spoolsv.exe	2100	TCPV6	desktop-js1n7f0	49667	desktop-js1n7f0	0	LISTENING										
+svchost.exe	868	TCP	DESKTOP-JS1N7F0	epmap	DESKTOP-JS1N7F0	0	LISTENING										
+svchost.exe	4452	TCP	DESKTOP-JS1N7F0	5040	DESKTOP-JS1N7F0	0	LISTENING										
+svchost.exe	1192	TCP	DESKTOP-JS1N7F0	49665	DESKTOP-JS1N7F0	0	LISTENING										
+svchost.exe	1152	TCP	DESKTOP-JS1N7F0	49666	DESKTOP-JS1N7F0	0	LISTENING										
+svchost.exe	2640	TCP	desktop-js1n7f0.ksd.edu	49679	52.173.26.181	https	ESTABLISHED										
+svchost.exe	1036	TCP	DESKTOP-JS1N7F0	ms-do	DESKTOP-JS1N7F0	0	LISTENING										
+svchost.exe	7124	UDP	desktop-js1n7f0.ksd.edu	ssdp	*	*											
+svchost.exe	7124	UDP	DESKTOP-JS1N7F0	ssdp	*	*											
+svchost.exe	4452	UDP	DESKTOP-JS1N7F0	5050	*	*											
+svchost.exe	1812	UDP	DESKTOP-JS1N7F0	5353	*	*											
+svchost.exe	1812	UDP	DESKTOP-JS1N7F0	llmnr	*	*				2	66						
+svchost.exe	7124	UDP	desktop-js1n7f0.ksd.edu	59158	*	*											
+svchost.exe	7124	UDP	DESKTOP-JS1N7F0	59159	*	*											
+svchost.exe	2776	UDP	DESKTOP-JS1N7F0	62093	*	*											
+svchost.exe	1600	UDP	DESKTOP-JS1N7F0	62697	*	*											
+svchost.exe	868	TCPV6	desktop-js1n7f0	epmap	desktop-js1n7f0	0	LISTENING										
+svchost.exe	1036	TCPV6	desktop-js1n7f0	ms-do	desktop-js1n7f0	0	LISTENING										
+svchost.exe	1192	TCPV6	desktop-js1n7f0	49665	desktop-js1n7f0	0	LISTENING										
+svchost.exe	1152	TCPV6	desktop-js1n7f0	49666	desktop-js1n7f0	0	LISTENING										
+svchost.exe	7124	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
+svchost.exe	7124	UDPV6	[fe80:0:0:0:d134:fb3a:cade:a983]	1900	*	*											
+svchost.exe	1812	UDPV6	desktop-js1n7f0	5353	*	*											
+svchost.exe	1812	UDPV6	desktop-js1n7f0	5355	*	*											
+svchost.exe	7124	UDPV6	[fe80:0:0:0:d134:fb3a:cade:a983]	59156	*	*											
+svchost.exe	7124	UDPV6	[0:0:0:0:0:0:0:1]	59157	*	*											
+System	4	TCP	desktop-js1n7f0.ksd.edu	netbios-ssn	DESKTOP-JS1N7F0	0	LISTENING										
+System	4	TCP	DESKTOP-JS1N7F0	microsoft-ds	DESKTOP-JS1N7F0	0	LISTENING										
+System	4	UDP	desktop-js1n7f0.ksd.edu	netbios-ns	*	*											
+System	4	UDP	desktop-js1n7f0.ksd.edu	netbios-dgm	*	*											
+System	4	TCPV6	desktop-js1n7f0	microsoft-ds	desktop-js1n7f0	0	LISTENING										
+wininit.exe	488	TCP	DESKTOP-JS1N7F0	49664	DESKTOP-JS1N7F0	0	LISTENING										
+wininit.exe	488	TCPV6	desktop-js1n7f0	49664	desktop-js1n7f0	0	LISTENING										
+WinStore.App.exe	5024	TCP	desktop-js1n7f0.ksd.edu	49859	a23-60-74-11.deploy.static.akamaitechnologies.com	https	CLOSE_WAIT										
+WinStore.App.exe	5024	TCP	desktop-js1n7f0.ksd.edu	49860	a23-60-74-11.deploy.static.akamaitechnologies.com	https	CLOSE_WAIT										
+WinStore.App.exe	5024	TCP	desktop-js1n7f0.ksd.edu	49861	a23-44-161-84.deploy.static.akamaitechnologies.com	http	CLOSE_WAIT										
+WinStore.App.exe	5024	TCP	desktop-js1n7f0.ksd.edu	49862	a23-44-161-84.deploy.static.akamaitechnologies.com	http	CLOSE_WAIT										
+WinStore.App.exe	5024	TCP	desktop-js1n7f0.ksd.edu	49863	a23-44-161-84.deploy.static.akamaitechnologies.com	http	CLOSE_WAIT										
+WinStore.App.exe	5024	TCP	desktop-js1n7f0.ksd.edu	49864	a23-44-161-84.deploy.static.akamaitechnologies.com	http	CLOSE_WAIT										
+WinStore.App.exe	5024	TCP	desktop-js1n7f0.ksd.edu	49865	66.119.205.8	https	CLOSE_WAIT										
+WinStore.App.exe	5024	TCP	desktop-js1n7f0.ksd.edu	49866	66.119.205.8	https	CLOSE_WAIT										
+WinStore.App.exe	5024	TCP	desktop-js1n7f0.ksd.edu	49867	72.21.91.29	http	CLOSE_WAIT										
+WinStore.App.exe	5024	TCP	desktop-js1n7f0.ksd.edu	49868	a23-44-161-84.deploy.static.akamaitechnologies.com	http	CLOSE_WAIT										
+WinStore.App.exe	5024	TCP	desktop-js1n7f0.ksd.edu	49869	a23-44-161-84.deploy.static.akamaitechnologies.com	http	CLOSE_WAIT										
+WinStore.App.exe	5024	TCP	desktop-js1n7f0.ksd.edu	49870	a23-60-72-62.deploy.static.akamaitechnologies.com	http	CLOSE_WAIT										
+WinStore.App.exe	5024	TCP	desktop-js1n7f0.ksd.edu	49871	a23-60-72-62.deploy.static.akamaitechnologies.com	http	CLOSE_WAIT										
+WinStore.App.exe	5024	TCP	desktop-js1n7f0.ksd.edu	49872	a23-60-72-62.deploy.static.akamaitechnologies.com	http	CLOSE_WAIT										
+WinStore.App.exe	5024	TCP	desktop-js1n7f0.ksd.edu	49873	a23-60-74-11.deploy.static.akamaitechnologies.com	https	CLOSE_WAIT										
